@@ -1,0 +1,1 @@
+console.log('this log file dir1');
